@@ -1,4 +1,4 @@
-A self-sufficient runtime for containers
+```A self-sufficient runtime for containers
 
 Options:
       --config string      Location of client config files (default "/Users/admin/.docker")
@@ -73,3 +73,4 @@ Commands:
   update      Update configuration of one or more containers
   version     Show the Docker version information
   wait        Block until one or more containers stop, then print their exit codes
+```
